@@ -1,3 +1,9 @@
+---- 3 favourites foods
 beef
 bún bò
 cơm
+
+---- 3 favourites movies
+chau tinh tri
+kiem hiep
+hài
